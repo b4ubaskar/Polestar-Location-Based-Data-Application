@@ -29,10 +29,6 @@ Includes filtering algorithms for different car models and historical data stora
 # Run the application
 ./gradlew run
 
-# Run tests
-./gradlew test
-```
-
 ## Assumptions
 1. Algorithms will be implemented by neighbouring team (interfaces provided)
 2. External API calls are mocked (comments indicate where real calls would go)
